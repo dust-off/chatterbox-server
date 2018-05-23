@@ -1,2 +1,2 @@
 #chatterbox-server
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+An project to learn how to create a basic chat client server
